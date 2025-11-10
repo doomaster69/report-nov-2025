@@ -1,0 +1,11 @@
+name: John Wick
+age: 30
+city: new york
+is_student: true
+grade:
+  -subject: math
+   grade: A
+  -subject: science
+    grade: A+
+  -subject: english
+    grade: A
